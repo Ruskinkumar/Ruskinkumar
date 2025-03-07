@@ -23,8 +23,8 @@ I am a passionate **Software Developer** with hands-on experience in **PHP** and
 
 📫 **How to Reach Me**  
 - GitHub: [Ruskinkumar](https://github.com/Ruskinkumar)
-- LinkedIn: [Your LinkedIn URL here]
-- Email: [Your Professional Email Here]
+- LinkedIn: [Ruskinkumar](https://www.linkedin.com/in/ruskin-kumar-m-733942223/)
+- Email: ruskinkumar24@gmail.com
 
 ✨ **Let's connect, collaborate, and grow together!**
 
